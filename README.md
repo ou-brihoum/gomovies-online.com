@@ -8,7 +8,7 @@ In order to use this service, you have to :
 3. Enable the extension by clicking on [Disable] red button
 4. Click Save.
 
-![HowToGif](https://img.techpowerup.org/200810/cors-extension.gif | height=200)
+![HowToGif](https://img.techpowerup.org/200810/cors-extension.gif)
 
 5. Download the repository
 ## Usage
