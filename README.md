@@ -45,5 +45,7 @@ In order to use this service, you have to :
 **[Q]** : What does the extension do ?
 
 **[A]** : Simple it's allow use to bypass the **[CORS]** security mechanism built-in every modern browser, **[read more by searching : cors on google]**
+## Contact
+📧 Email me : brihoum@yandex.ru 
 ## Release History
 - v0.1 [10/08/2020] : 🎉 first release!
