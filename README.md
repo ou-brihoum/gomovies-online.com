@@ -15,6 +15,10 @@ In order to use this service, you have to :
 1. Open ```index.html``` with *chrome/firefox* ( of course the extension is needed in that particular browser )
 2. Visit ```gomovies-online.com```, browse for a movie/TVshow, copy its link, paste it into index.html
 3. Click Submit & have fun :smiley:
+
+## Help me !
+Okay, here's a simple video for you : https://youtu.be/V-7RV7thPxQ
+
 ## Features : 
 ![FeaturesButtons](https://img.techpowerup.org/200810/screenshot-201.png)
 1. **Player settings** : 
