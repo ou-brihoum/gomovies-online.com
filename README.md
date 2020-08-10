@@ -37,11 +37,13 @@ In order to use this service, you have to :
 
 ![TVshowEps](https://img.techpowerup.org/200810/screenshot-205.png)
 
-##FAQ
-**[Q]** : Can i use this service without the extension ? 
+## FAQ
+**[Q]** : Can i use this service without the extension ?
+
 **[A]** : NO! we're sorry, you can't.
 
 **[Q]** : What does the extension do ?
-**[A]** : Simple it's allow use to bypass the **[CORS]** security mechanism built-in every modern browser, **read more by searching : cors on google**
+
+**[A]** : Simple it's allow use to bypass the **[CORS]** security mechanism built-in every modern browser, **[read more by searching : cors on google]**
 ## Release History
 - v0.1 [10/08/2020] : 🎉 first release!
