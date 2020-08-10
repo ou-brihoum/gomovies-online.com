@@ -38,7 +38,7 @@ In order to use this service, you have to :
 ![TVshowEps](https://img.techpowerup.org/200810/screenshot-205.png)
 
 ## Issues
-[X] Some sort of subtitles ( arabic especialy ) can't be uploaded/searched
+[X] Some sort of subtitles ( arabic especialy ) can't be uploaded/applied
 
 ## FAQ
 **[Q]** : Can i use this service without the extension ?
