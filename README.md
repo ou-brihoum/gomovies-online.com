@@ -1,4 +1,7 @@
 ## [EXPLOIT PATCHED & PROJECT DISCONTINUED]
+## [EXPLOIT PATCHED & PROJECT DISCONTINUED]
+## [EXPLOIT PATCHED & PROJECT DISCONTINUED]
+## [EXPLOIT PATCHED & PROJECT DISCONTINUED]
 ## Description
 Simple bypass to gomovies-online.com, allowing you to watch in 1080p / 720p / 480p / for free, with your custom uploaded subtitles if needed.
 ![Exemple Screenshot](https://img.techpowerup.org/200810/screenshot-200.png)
